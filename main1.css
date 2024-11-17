@@ -1,0 +1,147 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.as1{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(114, 114, 114);
+  width: 100%;
+  height: 110px;
+}
+
+.as2{
+  position: absolute;
+    top: 200px;
+    left: 150px;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+img{
+  border-radius: 10px;
+}
+
+.ee{
+  position: absolute;
+  top: 30px;
+  left: 150px;
+  color: aqua;
+  font-size: 40px;
+  font-weight: bold;
+  background-image:linear-gradient( 5deg , rgb(55, 55, 210),  #0c3466, rgb(0, 255, 255)) ;
+  -webkit-background-clip: text;
+  color: transparent;
+  background-clip: text;
+  margin: 0;
+}
+
+.ax{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 100px;
+  margin-left: 400px;
+}
+
+.pl{
+  width: 120px;
+  height: 25px;
+  border: 1px solid aqua;
+  padding: 10px;
+  border-radius: 12px;
+  background-color: aqua;
+  color: white;
+}
+
+.pl:hover{
+  background-color: white;
+  color: aqua;
+  border: 1px solid white;
+
+}
+
+h1{
+  font-size: 40px;
+}
+
+.ll{
+  font-size: 40px;
+  color: white;
+  margin-left: 600px;
+  padding-top: 30px;
+}
+
+.al{
+  width: 100%;
+  height: 1000px;
+  background-color: #030B15;
+}
+
+.img1{
+  position: absolute;
+  top: 0px;
+  left: 00px;
+  width: 300px;
+  height: 170px;
+  padding: 20px;
+  border: 2px solid aqua;
+  margin-left: 30px;
+  margin-top: 10px;
+  border-radius: 10px;
+}
+
+.yt{
+  margin-left: 20px;
+  margin-top: 200px;
+  color: white;
+}
+
+.h3{
+  margin-left: 20px;
+  color: gray;
+}
+
+.ax1{
+  position: absolute;
+  top: 250px;
+  left: 200px;
+  width: 400px;
+  height: 360px;
+  border: 1px solid aqua;
+  border-radius: 20px;
+}
+
+.ax2{
+  position: absolute;
+  top: 250px;
+  left: 800px;
+  width: 400px;
+  height: 360px;
+  border: 1px solid aqua;
+  border-radius: 20px;
+}
+
+.ax3{
+  position: absolute;
+  top: 650px;
+  left: 200px;
+  width: 400px;
+  height: 360px;
+  border: 1px solid aqua;
+  border-radius: 20px;
+}
+
+.ax4{
+  position: absolute;
+  top: 650px;
+  left: 800px;
+  width: 400px;
+  height: 360px;
+  border: 1px solid aqua;
+  border-radius: 20px;
+}
